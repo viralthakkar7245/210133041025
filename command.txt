@@ -1,0 +1,17 @@
+--Git Commands--
+
+git init --> create a repositry
+
+git add . --> untracked file to tracked
+
+git status --> check a status file (Track or not)
+
+git commit -m "Message" --> commit a file 
+
+git checkout filename --> edited file change show and old file generated
+
+git checkout -f --> multiple files changes show
+
+
+
+ 
